@@ -1,2 +1,2 @@
 # bout_day_processes
-Bout day processes for Steel City Roller Derby (please see the wiki)
+Bout day processes for Steel City Roller Derby
